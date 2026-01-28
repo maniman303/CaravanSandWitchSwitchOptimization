@@ -15,9 +15,14 @@ I'm running my CPU at 1581 MHz, and GPU at 768 MHz.
 
 - FPS locked to 30
 - Stuttering improvements
+- Garbage collection improvements
 - Further shadow distance
 - Reduced dynamic resolution
 - FXAA anti aliasing
+
+### Stutters
+
+Due to broken implementation of garbage collection in this game the stutters are impossible to eliminate. Every time gc will analyze current memory the fps will hitch. But I was able to change time period of analysis from60 seconds to 120 seconds, so you should see these hitches less often.
 
 ### Installation
 
