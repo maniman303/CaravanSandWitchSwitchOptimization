@@ -9,7 +9,7 @@ Unfortunately, this game is not optimized very well, so default Switch hardware 
 
 So I have made this mod with overclocked Switch in mind, and it's a requirement.
 
-I'm running my CPU at 1581 MHz, and GPU at 768 MHz.
+I'm running my CPU at 1683 MHz, and GPU at 768 MHz.
 
 ### Changes
 
